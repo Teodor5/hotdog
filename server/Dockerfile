@@ -12,3 +12,4 @@ EXPOSE 8081
 ENTRYPOINT ["/entrypoint/entrypoint.sh"]
 
 CMD ["npm", "start"]
+

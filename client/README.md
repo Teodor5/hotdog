@@ -1,4 +1,4 @@
-npm# client
+# client
 
 > A Vue.js project
 

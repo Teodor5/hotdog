@@ -2,4 +2,3 @@
 db/*
 !db/.gitignore
 node_modules/
-.idea
